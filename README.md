@@ -98,10 +98,6 @@ Contributions are welcome! Please:
 4. Push to branch (`git push origin feature/improvement`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Citation
 
 If you use this project, please cite:
